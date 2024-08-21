@@ -1,0 +1,22 @@
+{
+  "name": "discord-account-message-cleaner",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Teyrox21/Discord-Account-Message-Cleaner.git"
+  },
+  "author": "Teyrox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Teyrox21/Discord-Account-Message-Cleaner/issues"
+  },
+  "homepage": "https://github.com/Teyrox21/Discord-Account-Message-Cleaner#readme",
+  "description": "",
+  "dependencies": {
+    "discord.js-selfbot-v13": "^3.3.0"
+  }
+}
