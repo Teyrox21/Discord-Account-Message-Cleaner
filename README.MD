@@ -1,6 +1,6 @@
-# Discord Account Message Cleaner 1.0.0
+# Discord Account Message Cleaner 1.0.0 - NodeJS
 
-Selfbot to delete messages from an client in a certain channel... Or as many as possible.
+Selfbot with JavaScript to delete messages from an client in a certain channel... Or as many as possible.
 
 ## Requirements
 - Node.js v22.6.0
